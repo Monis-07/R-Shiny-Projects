@@ -1,3 +1,3 @@
 # R-Shiny-Projects
 
-![Alt text](Images/IPL - Dashboard.png)
+![Alt text](./Images/IPL - Dashboard.png)
